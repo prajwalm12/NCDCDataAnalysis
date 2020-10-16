@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.partition.HashPartitioner;
 
 
 /**
- * Hello world!
+ * A BigData job that generates the maximum temperature recorded on a yearly basis
  *
  */
 public class WeatherDataAnalysis 
